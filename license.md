@@ -190,4 +190,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Monster Hunter: World · Updated 2026-11-17 · Shared under the MIT License*
+*Monster Hunter: World · Updated 2026-11-18 · Shared under the MIT License*
